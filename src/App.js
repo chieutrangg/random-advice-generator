@@ -66,7 +66,7 @@ const Container = styled.div`
         h1{
             display: flex;
             align-items: center;
-            height: 582px;
+            height: auto;
         }
         button{
             position: relative;
